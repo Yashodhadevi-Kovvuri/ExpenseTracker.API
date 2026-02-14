@@ -23,5 +23,5 @@ A RESTful ASP.NET Core Web API for managing user expenses.
 5. Test APIs using Swagger
 
 ## Author
-Yashodhadevi Kovvuri 
+Yashodhadevi Kovvuri
 Aspiring .NET Backend Developer
